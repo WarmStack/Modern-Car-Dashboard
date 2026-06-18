@@ -3,11 +3,7 @@ Modern Newly Created  Car Dashboard using QT QML
 # Racing-Car-Dashboard
 Racing Car Dashboard
 ## Demo Screen 1
-![Car Gauge](https://github.com/WarmStack/modern-car-dashboard-/blob/main/screenshot/Screenshot%202023-08-13%20212900.png)
-
-<h3 align='center'>
-  👩‍💻 Aksh Singh 👩‍💻
-</h3>
+![Car Gauge](https://github.com/WarmStack/Modern-Car-Dashboard/blob/main/screenshot/Screenshot%202023-08-13%20212900.png)
 
 <h4 align='center'>
   Embedded Software Engineer (QT| C++)
